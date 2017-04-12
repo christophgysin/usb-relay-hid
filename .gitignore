@@ -33,3 +33,11 @@
 *.suo
 *.ncb
 *.sdf
+
+# qt
+qt/.qmake.stash
+qt/Makefile
+qt/*/Makefile
+qt/*/moc_*
+qt/*/qrc_*
+qt/*/ui_*
